@@ -17,7 +17,7 @@ Pod::Spec.new do |spec|
 
   spec.name         = "QuizKit"
   spec.version      = "0.0.1"
-  spec.summary      = "A short description of QuizKit."
+  spec.summary      = "Framework for creating quizzes."
 
   # This description is used to generate tags and improve search results.
   #   * Think: What does it do? Why did you write it? What is the focus?
@@ -25,6 +25,7 @@ Pod::Spec.new do |spec|
   #   * Write the description between the DESC delimiters below.
   #   * Finally, don't worry about the indent, CocoaPods strips it!
   spec.description  = <<-DESC
+QuizKit is a versatile Swift framework designed for effortlessly creating and managing quizzes in your iOS applications. It offers a customizable and easy-to-use interface to enhance the user experience in educational or trivia-based apps.
                    DESC
 
   spec.homepage     = "https://github.com/valeria-ivanenko/QuizKit"
